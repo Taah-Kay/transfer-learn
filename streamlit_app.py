@@ -65,7 +65,7 @@ def object_detection(search_key, frame, model):
 def main():
     """Deployment using Streamlit"""
     st.title("OBJECT DETECTION MADE EASY")
-    st.text("BUILT BY PANASHE INNOCENT TAFUMA AND RYAN KEMBO")
+    st.text("BUILT BY RYAN KEMBO")
 
     activities = ["Detect Objects", "About"]
     choice = st.sidebar.selectbox("Choose Activity", activities)
@@ -138,7 +138,7 @@ def main():
         st.subheader("About")
         st.text("OBJECT DETECTION MADE EASY")
         
-        st.text("BUILT BY PANASHE INNOCENT TAFUMA AND RYAN KEMBO")
+        st.text("BUILT BY RYAN KEMBO")
 
 
 if __name__ == '__main__':
