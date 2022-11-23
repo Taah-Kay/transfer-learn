@@ -2,6 +2,7 @@ h5py==3.5.0
 keras==2.7.0
 Keras-Preprocessing==1.1.2
 opencv_python-4.6.0.66
+opencv-python-headless==4.5.5.64
 tensorboard==2.7.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.0
